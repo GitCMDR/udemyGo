@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main () {
+func main() {
 	// We can just declaring the variable and implicitly initialise it to zero value depending on the type
 	// eg. int will be automatically be initialised to zero
 	// bool will be automatically initialised to false
